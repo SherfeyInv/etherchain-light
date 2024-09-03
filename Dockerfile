@@ -1,3 +1,3 @@
-FROM node:8.7.0-onbuild
+FROM node:22.5.1-slim
 
 EXPOSE 3000
