@@ -1,3 +1,3 @@
-FROM node:22.5.1-slim
+FROM node:22.19.0-slim
 
 EXPOSE 3000
