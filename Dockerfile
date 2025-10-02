@@ -1,3 +1,3 @@
-FROM node:22.5.1-slim
+FROM node:lts-bookworm-slim
 
 EXPOSE 3000
